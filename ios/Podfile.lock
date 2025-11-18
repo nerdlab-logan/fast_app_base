@@ -9,6 +9,8 @@ PODS:
   - path_provider_foundation (0.0.1):
     - Flutter
     - FlutterMacOS
+  - rive_common (0.0.1):
+    - Flutter
   - shared_preferences_foundation (0.0.1):
     - Flutter
     - FlutterMacOS
@@ -22,6 +24,7 @@ DEPENDENCIES:
   - isar_flutter_libs (from `.symlinks/plugins/isar_flutter_libs/ios`)
   - keyboard_utils_fork (from `.symlinks/plugins/keyboard_utils_fork/ios`)
   - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - rive_common (from `.symlinks/plugins/rive_common/ios`)
   - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
   - sqflite_darwin (from `.symlinks/plugins/sqflite_darwin/darwin`)
 
@@ -36,6 +39,8 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/keyboard_utils_fork/ios"
   path_provider_foundation:
     :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  rive_common:
+    :path: ".symlinks/plugins/rive_common/ios"
   shared_preferences_foundation:
     :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
   sqflite_darwin:
@@ -47,6 +52,7 @@ SPEC CHECKSUMS:
   isar_flutter_libs: 9fc2cfb928c539e1b76c481ba5d143d556d94920
   keyboard_utils_fork: 7c7a5c1563c76d9f5d0ed8758a932683f42304af
   path_provider_foundation: bb55f6dbba17d0dccd6737fe6f7f34fbd0376880
+  rive_common: dd421daaf9ae69f0125aa761dd96abd278399952
   shared_preferences_foundation: 7036424c3d8ec98dfe75ff1667cb0cd531ec82bb
   sqflite_darwin: 20b2a3a3b70e43edae938624ce550a3cbf66a3d0
 
